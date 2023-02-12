@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DataTransformMongoApplication {
+public class DataTransformApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DataTransformMongoApplication.class, args);
+        SpringApplication.run(DataTransformApplication.class, args);
     }
 
 }
